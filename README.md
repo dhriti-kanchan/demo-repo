@@ -1,4 +1,4 @@
 # demo-repo
 This is my demo repo.
 <br>
-Author-Dhriti Kanchan
+Author-Dhriti (demo-repo)
